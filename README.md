@@ -2,7 +2,7 @@
 
 - Step 1: **Read the data from the CSV file and create a dictionary for each movie, with the movie title as the key and the other data as values**
 ```- Import csv, copy and random modules
-    - Create a values directory that has the year,     genre and rating keys with empty values
+    - Create a values directory that has the year, genre and rating keys with empty values
     - Include the movie_data.csv file to the program by using the 'with' statement 
     - Open the file using the 'open' function and the csv_file handle
     - Use the csv.reader() method to read the file
